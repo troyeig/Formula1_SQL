@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 # Questions to answer: 
 1. What tracks have hosted the most grand prix since 1950?
 2. What constructors have participated in the most championships?
-3. What drivers have raced the most grand prix? 
+3. What drivers have raced in the most grand prix? 
 4. What drivers have the best average race position?
 5. What constructors have the highest average finishing position in the constructor's championship?
 6. What drivers have the highest average finishing position in the driver's championship? 
