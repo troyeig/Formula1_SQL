@@ -16,3 +16,5 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 8. Who has the most driver's championships?
 
 ## 1. What tracks have hosted the most grand prix since 1950?
+
+![{5BBAA8B7-BC66-4231-B237-03966E9531DB}](https://github.com/user-attachments/assets/6f6c038c-a647-47b4-b633-21f134c9f562)
