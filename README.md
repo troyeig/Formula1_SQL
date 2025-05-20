@@ -5,10 +5,12 @@ The database comes from Kaggle and was uploaded to SUPABASE and queried using SQ
 https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
 # Questions to answer: 
-## 1. Who are the most participating constructors? 
-## 2. Who has the highest average finishing position?
-## 3. Who has the most driver's championships? 
-## 4. What tracks have hosted the most grand prix since 1950?
-## 5. What drivers have raced the most races since 1950? 
-## 6. What constructors have won the most championships? 
-## 7. How has car pace changed from 1950 to 2024? 
+## 1. What constructors have participated in the most championships? 
+## 2. What drivers have raced the most grand prix? 
+## 3. What tracks have hosted the most grand prix since 1950?
+## 4. What drivers have the highest average race position?
+## 5. What constructors have the highest average finishing position in the constructor's championship?
+## 6. What drivers have the highest average finishing position in the driver's championship? 
+## 7. Who has the most constructor's championships? 
+## 8. Who has the most driver's championships? 
+## 9. How has car pace changed from 1950 to 2024? 
