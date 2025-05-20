@@ -17,6 +17,8 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
 ## 1. What tracks have hosted the most grand prix since 1950?
 ![{A99235E1-F2B7-465F-80FA-CC4597AC688D}](https://github.com/user-attachments/assets/d4d75f5b-8096-4933-a36b-1365bc84ed58)
+![{6D558989-760B-45E4-841D-FEC7EC08E906}](https://github.com/user-attachments/assets/3636d27e-5711-4ab0-aec8-3f4ad7d937d5)
+
 
 ## 2. What constructors have participated in the most championships?
 ![{E05BB827-CE40-4C42-91D7-F0467537499C}](https://github.com/user-attachments/assets/2b58fa84-367c-49bb-a001-4b7cda749347)
